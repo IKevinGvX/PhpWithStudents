@@ -177,7 +177,7 @@ if (isset($_GET['id'])) {
 
             <div>
                 <label for="Codigo">Codigo</label>
-                <input type="number" id="codigo" name="codigo" value="<?php echo htmlspecialchars($row['codigo']); ?>"
+                <input type="text" id="codigo" name="codigo" value="<?php echo htmlspecialchars($row['codigo']); ?>"
                     required>
             </div>
             <div>

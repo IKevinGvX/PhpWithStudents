@@ -99,10 +99,10 @@ if ($con) {
 
 <body>
     <div class="container">
-        <h1>List Books</h1>
+        <h1>List Products</h1>
 
         <div class="mb-3">
-            <a href="nuevoproducts.php" class="btn btn-primary">View Books</a>
+            <a href="nuevoproducts.php" class="btn btn-primary">View Products</a>
             <a href="books.php" class="btn btn-primary">View Books</a>
             <a href="../index.php" class="btn btn-primary">View Students</a>
 
